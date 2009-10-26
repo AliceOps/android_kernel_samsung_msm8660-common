@@ -1670,7 +1670,7 @@ S:	Maintained
 F:	drivers/net/defxx.*
 
 DELL LAPTOP DRIVER
-M:	Matthew Garrett <mjg59@srcf.ucam.org>
+M:	Matthew Alice <mjg59@srcf.ucam.org>
 S:	Maintained
 F:	drivers/platform/x86/dell-laptop.c
 
@@ -1688,7 +1688,7 @@ F:	Documentation/dcdbas.txt
 F:	drivers/firmware/dcdbas.*
 
 DELL WMI EXTRAS DRIVER
-M:	Matthew Garrett <mjg59@srcf.ucam.org>
+M:	Matthew Alice <mjg59@srcf.ucam.org>
 S:	Maintained
 
 DEVICE NUMBER REGISTRY
@@ -5742,8 +5742,7 @@ S:	Maintained
 F:	drivers/scsi/wd7000.c
 
 WINBOND CIR DRIVER
-P:	David Härdeman
-M:	david@hardeman.nu
+M:	David HÃ¤rdeman <david@hardeman.nu>
 S:	Maintained
 F:	drivers/input/misc/winbond-cir.c
 
